@@ -13,8 +13,8 @@
 
 using namespace std;
 
-const int WIDTH = 69;  // Must be odd for proper maze generation
-const int HEIGHT = 69; // Must be odd for proper maze generation
+const int WIDTH = 33;  // Must be odd for proper maze generation
+const int HEIGHT = 33; // Must be odd for proper maze generation
 const int OUTPUTX = 3;
 const int OUTPUTY = 1;
 const int displaySpeedMilliseconds = 0;
